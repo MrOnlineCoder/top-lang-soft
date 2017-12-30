@@ -30,7 +30,6 @@ Coding, libraries and tools
 * [CLR](https://en.wikipedia.org/wiki/Common_Language_Runtime)
 * [Java VM](https://en.wikipedia.org/wiki/Java_virtual_machine)
 * [V8 JavaScript Engine](https://github.com/v8/v8) +
-* a lot of open-source libraries
 
 System Utilities
 * [memcached](https://github.com/memcached/memcached) +
@@ -77,8 +76,9 @@ Games
 * [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))
 * Valve Source Engine and Source games (Counter-Strike, Dota 2, etc.)
 * Most of Electronic Arts Games
-* [Unreal Engine](https://github.com/EpicGames) +
+* [Unreal Engine (private, needs EpicGames account)](https://github.com/EpicGames) +
 * [CryEngine](https://github.com/CRYTEK/CRYENGINE) +
+* [Unity Engine](https://unity3d.com/)
 
 Other
 * [Bitcoin](https://github.com/bitcoin/bitcoin) +
